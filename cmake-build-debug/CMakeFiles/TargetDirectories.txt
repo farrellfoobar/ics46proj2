@@ -1,0 +1,5 @@
+/home/ics46/projects/proj2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ics46/projects/proj2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ics46/projects/proj2/cmake-build-debug/CMakeFiles/a.out.gtest.dir
+/home/ics46/projects/proj2/cmake-build-debug/CMakeFiles/a.out.exp.dir
+/home/ics46/projects/proj2/cmake-build-debug/CMakeFiles/a.out.app.dir

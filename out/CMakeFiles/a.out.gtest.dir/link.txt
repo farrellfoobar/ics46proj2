@@ -1,0 +1,1 @@
+/usr/bin/clang++      CMakeFiles/a.out.gtest.dir/gtest/DoublyLinkedList_SanityCheckTests.cpp.o CMakeFiles/a.out.gtest.dir/gtest/Queue_SanityCheckTests.cpp.o CMakeFiles/a.out.gtest.dir/gtest/gtestmain.cpp.o  -o bin/a.out.gtest -lpthread -lc++ -lgtest -lgtest_main 

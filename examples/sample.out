@@ -1,0 +1,190 @@
+LOG
+0 start
+20 entered line 1 length 1
+20 entered line 2 length 1
+20 entered line 3 length 1
+20 entered line 4 length 1
+20 exited line 1 length 0 wait time 0
+20 entered register 1
+20 exited line 2 length 0 wait time 0
+20 entered register 2
+20 exited line 3 length 0 wait time 0
+20 entered register 3
+20 exited line 4 length 0 wait time 0
+20 entered register 4
+30 entered line 1 length 1
+30 entered line 2 length 1
+30 entered line 3 length 1
+30 entered line 4 length 1
+30 entered line 5 length 1
+30 exited line 5 length 0 wait time 0
+30 entered register 5
+35 entered line 5 length 1
+35 entered line 6 length 1
+35 entered line 7 length 1
+35 exited line 6 length 0 wait time 0
+35 entered register 6
+35 exited line 7 length 0 wait time 0
+35 entered register 7
+40 entered line 6 length 1
+40 entered line 7 length 1
+40 entered line 8 length 1
+40 entered line 1 length 2
+40 entered line 2 length 2
+40 entered line 3 length 2
+40 exited line 8 length 0 wait time 0
+40 entered register 8
+60 entered line 8 length 1
+60 entered line 4 length 2
+60 entered line 5 length 2
+60 entered line 6 length 2
+60 entered line 7 length 2
+60 entered line 8 length 2
+60 entered line 1 length 3
+60 entered line 2 length 3
+60 exited register 1
+60 exited line 1 length 2 wait time 30
+60 entered register 1
+60 exited register 3
+60 exited line 3 length 1 wait time 30
+60 entered register 3
+65 exited register 4
+65 exited line 4 length 1 wait time 35
+65 entered register 4
+70 entered line 3 length 2
+70 entered line 4 length 2
+70 entered line 1 length 3
+70 entered line 3 length 3
+70 entered line 4 length 3
+70 entered line 5 length 3
+70 entered line 6 length 3
+70 exited register 2
+70 exited line 2 length 2 wait time 40
+70 entered register 2
+80 exited register 5
+80 exited line 5 length 2 wait time 45
+80 entered register 5
+80 exited register 6
+80 exited line 6 length 2 wait time 40
+80 entered register 6
+85 entered line 2 length 3
+85 entered line 5 length 3
+85 entered line 6 length 3
+85 entered line 7 length 3
+85 entered line 8 length 3
+90 entered line 1 length 4
+90 entered line 2 length 4
+90 entered line 3 length 4
+90 entered line 4 length 4
+90 entered line 5 length 4
+90 entered line 6 length 4
+90 entered line 7 length 4
+90 entered line 8 length 4
+90 lost
+95 exited register 7
+95 exited line 7 length 3 wait time 55
+95 entered register 7
+100 exited register 1
+100 exited line 1 length 3 wait time 60
+100 entered register 1
+100 exited register 3
+100 exited line 3 length 3 wait time 60
+100 entered register 3
+105 exited register 8
+105 exited line 8 length 3 wait time 45
+105 entered register 8
+110 entered line 1 length 4
+110 entered line 3 length 4
+110 entered line 7 length 4
+110 entered line 8 length 4
+110 exited register 4
+110 exited line 4 length 3 wait time 50
+110 entered register 4
+120 entered line 4 length 4
+120 lost
+120 exited register 2
+120 exited line 2 length 3 wait time 80
+120 entered register 2
+125 exited register 6
+125 exited line 6 length 3 wait time 65
+125 entered register 6
+130 entered line 2 length 4
+130 entered line 6 length 4
+130 lost
+130 lost
+130 exited register 5
+130 exited line 5 length 3 wait time 70
+130 entered register 5
+135 entered line 5 length 4
+140 exited register 1
+140 exited line 1 length 3 wait time 80
+140 entered register 1
+140 exited register 3
+140 exited line 3 length 3 wait time 70
+140 entered register 3
+150 entered line 1 length 4
+150 entered line 3 length 4
+155 exited register 4
+155 exited line 4 length 3 wait time 85
+155 entered register 4
+155 exited register 7
+155 exited line 7 length 3 wait time 95
+155 entered register 7
+170 exited register 2
+170 exited line 2 length 3 wait time 110
+170 entered register 2
+170 exited register 6
+170 exited line 6 length 3 wait time 100
+170 entered register 6
+170 exited register 8
+170 exited line 8 length 3 wait time 110
+170 entered register 8
+180 entered line 2 length 4
+180 entered line 4 length 4
+180 entered line 6 length 4
+180 entered line 7 length 4
+180 entered line 8 length 4
+180 lost
+180 exited register 1
+180 exited line 1 length 3 wait time 110
+180 entered register 1
+180 exited register 3
+180 exited line 3 length 3 wait time 110
+180 entered register 3
+180 exited register 5
+180 exited line 5 length 3 wait time 110
+180 entered register 5
+200 exited register 4
+200 exited line 4 length 3 wait time 130
+200 entered register 4
+215 exited register 6
+215 exited line 6 length 3 wait time 130
+215 entered register 6
+215 exited register 7
+215 exited line 7 length 3 wait time 130
+215 entered register 7
+220 exited register 1
+220 exited line 1 length 2 wait time 130
+220 entered register 1
+220 exited register 2
+220 exited line 2 length 3 wait time 135
+220 entered register 2
+220 exited register 3
+220 exited line 3 length 2 wait time 130
+220 entered register 3
+230 exited register 5
+230 exited line 5 length 2 wait time 145
+230 entered register 5
+235 exited register 8
+235 exited line 8 length 3 wait time 150
+235 entered register 8
+240 end
+
+STATS
+Entered Line    : 61
+Exited Line     : 40
+Exited Register : 32
+Avg Wait Time   : 69.12
+Left In Line    : 21
+Left In Register: 8
+Lost            : 5

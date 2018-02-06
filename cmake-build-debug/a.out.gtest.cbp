@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="a.out.gtest"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ics46/projects/proj2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ics46/projects/proj2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ics46/projects/proj2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a.out.gtest">
+				<Option output="/home/ics46/projects/proj2/cmake-build-debug/bin/a.out.gtest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ics46/projects/proj2/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/home/ics46/projects/proj2/core"/>
+					<Add directory="/home/ics46/projects/proj2/app"/>
+					<Add directory="/home/ics46/projects/proj2/exp"/>
+					<Add directory="/home/ics46/projects/proj2/gtest"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward"/>
+					<Add directory="/usr/include/clang/5.0.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/llvm-5.0/lib/clang/5.0.1/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 a.out.gtest"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a.out.gtest/fast">
+				<Option output="/home/ics46/projects/proj2/cmake-build-debug/bin/a.out.gtest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ics46/projects/proj2/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/home/ics46/projects/proj2/core"/>
+					<Add directory="/home/ics46/projects/proj2/app"/>
+					<Add directory="/home/ics46/projects/proj2/exp"/>
+					<Add directory="/home/ics46/projects/proj2/gtest"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward"/>
+					<Add directory="/usr/include/clang/5.0.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/llvm-5.0/lib/clang/5.0.1/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 a.out.gtest/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a.out.exp">
+				<Option output="/home/ics46/projects/proj2/cmake-build-debug/bin/a.out.exp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ics46/projects/proj2/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/home/ics46/projects/proj2/core"/>
+					<Add directory="/home/ics46/projects/proj2/app"/>
+					<Add directory="/home/ics46/projects/proj2/exp"/>
+					<Add directory="/home/ics46/projects/proj2/gtest"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward"/>
+					<Add directory="/usr/include/clang/5.0.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/llvm-5.0/lib/clang/5.0.1/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 a.out.exp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a.out.exp/fast">
+				<Option output="/home/ics46/projects/proj2/cmake-build-debug/bin/a.out.exp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ics46/projects/proj2/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/home/ics46/projects/proj2/core"/>
+					<Add directory="/home/ics46/projects/proj2/app"/>
+					<Add directory="/home/ics46/projects/proj2/exp"/>
+					<Add directory="/home/ics46/projects/proj2/gtest"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward"/>
+					<Add directory="/usr/include/clang/5.0.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/llvm-5.0/lib/clang/5.0.1/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 a.out.exp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a.out.app">
+				<Option output="/home/ics46/projects/proj2/cmake-build-debug/bin/a.out.app" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ics46/projects/proj2/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/home/ics46/projects/proj2/core"/>
+					<Add directory="/home/ics46/projects/proj2/app"/>
+					<Add directory="/home/ics46/projects/proj2/exp"/>
+					<Add directory="/home/ics46/projects/proj2/gtest"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward"/>
+					<Add directory="/usr/include/clang/5.0.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/llvm-5.0/lib/clang/5.0.1/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 a.out.app"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a.out.app/fast">
+				<Option output="/home/ics46/projects/proj2/cmake-build-debug/bin/a.out.app" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ics46/projects/proj2/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/home/ics46/projects/proj2/core"/>
+					<Add directory="/home/ics46/projects/proj2/app"/>
+					<Add directory="/home/ics46/projects/proj2/exp"/>
+					<Add directory="/home/ics46/projects/proj2/gtest"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward"/>
+					<Add directory="/usr/include/clang/5.0.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/llvm-5.0/lib/clang/5.0.1/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 a.out.app/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ics46/projects/proj2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ics46/projects/proj2/app/main.cpp">
+			<Option target="a.out.app"/>
+		</Unit>
+		<Unit filename="/home/ics46/projects/proj2/exp/expmain.cpp">
+			<Option target="a.out.exp"/>
+		</Unit>
+		<Unit filename="/home/ics46/projects/proj2/gtest/DoublyLinkedList_SanityCheckTests.cpp">
+			<Option target="a.out.gtest"/>
+		</Unit>
+		<Unit filename="/home/ics46/projects/proj2/gtest/Queue_SanityCheckTests.cpp">
+			<Option target="a.out.gtest"/>
+		</Unit>
+		<Unit filename="/home/ics46/projects/proj2/gtest/gtestmain.cpp">
+			<Option target="a.out.gtest"/>
+		</Unit>
+		<Unit filename="/home/ics46/projects/proj2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

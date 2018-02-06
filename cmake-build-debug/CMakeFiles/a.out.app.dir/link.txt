@@ -1,0 +1,1 @@
+/usr/bin/clang++  -g   CMakeFiles/a.out.app.dir/app/main.cpp.o  -o bin/a.out.app -lc++ -lpthread 

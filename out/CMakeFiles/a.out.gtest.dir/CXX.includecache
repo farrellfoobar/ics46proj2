@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../core/DoublyLinkedList.hpp
+EmptyException.hpp
+../core/EmptyException.hpp
+IteratorException.hpp
+../core/IteratorException.hpp
+
+../core/EmptyException.hpp
+
+../core/IteratorException.hpp
+
+../core/Queue.hpp
+DoublyLinkedList.hpp
+../core/DoublyLinkedList.hpp
+
+/home/ics46/projects/proj2/gtest/DoublyLinkedList_SanityCheckTests.cpp
+string
+-
+gtest/gtest.h
+-
+DoublyLinkedList.hpp
+/home/ics46/projects/proj2/gtest/DoublyLinkedList.hpp
+
+/home/ics46/projects/proj2/gtest/Queue_SanityCheckTests.cpp
+gtest/gtest.h
+-
+Queue.hpp
+/home/ics46/projects/proj2/gtest/Queue.hpp
+
+/home/ics46/projects/proj2/gtest/gtestmain.cpp
+gtest/gtest.h
+-
+
